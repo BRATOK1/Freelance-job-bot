@@ -89,25 +89,23 @@ python main.py
 
 ### Menu
 
-![Menu](menu.png)
-
+![Menu](Menu.png)
 
 ### Find Jobs
 
-![Find Jobs](job.png)
+![Find Jobs](Find%20Jobs.png)
 
 ### Help
 
-![Help](help.png)
+![Help](Help.png)
 
 ### Statistics
 
-![Statistics](statistics.png)
+![Statistics](Statistics.png)
 
 ### Clear History
 
-![Clear History](ClearHistory.png)
-
+![Clear History](Clear%20History.png)
 ---
 
 ## 🔮 Future Plans
