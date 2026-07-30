@@ -1,0 +1,16 @@
+# Секрети
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Віртуальне середовище
+venv/
+.venv/
+
+# Дані бота
+seen_jobs.json
