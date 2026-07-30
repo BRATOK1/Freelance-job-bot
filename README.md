@@ -89,24 +89,24 @@ python main.py
 
 ### Menu
 
-![Menu](images/menu.png)
+![Menu](menu.png)
 
 
 ### Find Jobs
 
-![Find Jobs](images/job.png)
+![Find Jobs](job.png)
 
 ### Help
 
-![Help](images/help.png)
+![Help](help.png)
 
 ### Statistics
 
-![Statistics](images/statistics.png)
+![Statistics](statistics.png)
 
 ### Clear History
 
-![Clear History](images/ClearHistory.png)
+![Clear History](ClearHistory.png)
 
 ---
 
